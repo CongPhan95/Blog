@@ -1,0 +1,1 @@
+E:\1.TRAINING\ReactJS-Laravel\ReactJSLaravel\vendor\laravel\framework\src\Illuminate\Auth\Console\stubs\make\views\auth\passwords\asc
